@@ -1,0 +1,22 @@
+{"$type":"Server.Domain.GameWorldCreated, Server","tick":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":1,"timestamp":"2021-05-28T11:49:48.1668952+03:00"}
+{"$type":"Server.Domain.GameWorldStartedEvent, Server","peers":{"$type":"Server.Domain.Match, Server","firstPeerId":0,"secondPeerId":1},"tick":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":2,"timestamp":"2021-05-28T11:49:49.6550917+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":3,"timestamp":"2021-05-28T11:49:49.6910412+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":4,"timestamp":"2021-05-28T11:49:50.1555811+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":5,"timestamp":"2021-05-28T11:49:50.6561076+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":6,"timestamp":"2021-05-28T11:49:51.168696+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":7,"timestamp":"2021-05-28T11:49:51.6826951+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":8,"timestamp":"2021-05-28T11:49:52.1943699+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":9,"timestamp":"2021-05-28T11:49:52.7032003+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":10,"timestamp":"2021-05-28T11:49:53.2150301+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":11,"timestamp":"2021-05-28T11:49:53.7256263+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":12,"timestamp":"2021-05-28T11:49:54.2332951+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":13,"timestamp":"2021-05-28T11:49:54.7422327+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":14,"timestamp":"2021-05-28T11:49:55.2555568+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":15,"timestamp":"2021-05-28T11:49:55.7648956+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":16,"timestamp":"2021-05-28T11:49:56.2733449+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":17,"timestamp":"2021-05-28T11:49:56.7843076+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":18,"timestamp":"2021-05-28T11:49:57.2929359+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":19,"timestamp":"2021-05-28T11:49:57.8037166+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":20,"timestamp":"2021-05-28T11:49:58.3109558+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":21,"timestamp":"2021-05-28T11:49:58.8206554+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"1529626d-530a-42ea-b39b-3049fd7bf053","aggregateVersion":22,"timestamp":"2021-05-28T11:49:59.3263641+03:00"}

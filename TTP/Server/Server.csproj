@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <Configurations>Debug;Release;New</Configurations>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="JKang.EventSourcing" Version="1.1.2" />
+      <PackageReference Include="JKang.EventSourcing.Persistence.FileSystem" Version="1.1.2" />
+      <PackageReference Include="LiteNetLib" Version="0.9.4" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+    </ItemGroup>
+
+</Project>

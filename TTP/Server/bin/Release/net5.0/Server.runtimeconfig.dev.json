@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ROAR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ROAR\\.nuget\\packages"
+    ]
+  }
+}

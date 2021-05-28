@@ -1,0 +1,26 @@
+{"$type":"Server.Domain.GameWorldCreated, Server","tick":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":1,"timestamp":"2021-03-09T03:14:21.3088951+03:00"}
+{"$type":"Server.Domain.GameWorldStartedEvent, Server","peers":{"$type":"Server.Domain.Match, Server","firstPeerId":0,"secondPeerId":1},"tick":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":2,"timestamp":"2021-03-09T03:14:25.85582+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":3,"timestamp":"2021-03-09T03:14:25.8610214+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":4,"timestamp":"2021-03-09T03:14:26.3618698+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":5,"timestamp":"2021-03-09T03:14:26.8676311+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":6,"timestamp":"2021-03-09T03:14:27.3737596+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":7,"timestamp":"2021-03-09T03:14:27.8825738+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":8,"timestamp":"2021-03-09T03:14:28.3914935+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":9,"timestamp":"2021-03-09T03:14:28.8994833+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":10,"timestamp":"2021-03-09T03:14:29.4063043+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":11,"timestamp":"2021-03-09T03:14:29.9136061+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":12,"timestamp":"2021-03-09T03:14:30.41998+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":13,"timestamp":"2021-03-09T03:14:30.9274105+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":14,"timestamp":"2021-03-09T03:14:31.4335829+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":15,"timestamp":"2021-03-09T03:14:31.9420255+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":16,"timestamp":"2021-03-09T03:14:32.4474052+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":17,"timestamp":"2021-03-09T03:14:32.9573209+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":18,"timestamp":"2021-03-09T03:14:33.4639971+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":19,"timestamp":"2021-03-09T03:14:33.973583+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":20,"timestamp":"2021-03-09T03:14:34.4814506+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":21,"timestamp":"2021-03-09T03:14:34.9863686+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":22,"timestamp":"2021-03-09T03:14:35.4931878+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":23,"timestamp":"2021-03-09T03:14:36.0006382+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":24,"timestamp":"2021-03-09T03:14:36.5076128+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":0,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":25,"timestamp":"2021-03-09T03:14:37.0137363+03:00"}
+{"$type":"Server.Domain.ClientShotEvent, Server","peerId":1,"aggregateId":"fbb34b0d-d460-4f2f-9ba7-b7192c9dcafd","aggregateVersion":26,"timestamp":"2021-03-09T03:14:37.5241797+03:00"}

@@ -1,0 +1,14 @@
+{"$type":"Server.Domain.GameWorld.GameWorldCreated, Server","tick":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":1,"timestamp":"2021-03-08T17:12:26.1941089+03:00"}
+{"$type":"Server.Domain.GameWorld.GameWorldStartedEvent, Server","peers":{"$type":"Server.Domain.Battle.Match, Server","firstPeerId":0,"secondPeerId":1},"tick":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":2,"timestamp":"2021-03-08T17:12:26.7002581+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":3,"timestamp":"2021-03-08T17:12:26.709661+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":4,"timestamp":"2021-03-08T17:12:27.7128581+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":5,"timestamp":"2021-03-08T17:12:28.7412252+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":6,"timestamp":"2021-03-08T17:12:29.7551459+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":7,"timestamp":"2021-03-08T17:12:30.7689062+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":8,"timestamp":"2021-03-08T17:12:31.7787613+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":9,"timestamp":"2021-03-08T17:12:32.7994853+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":10,"timestamp":"2021-03-08T17:12:33.819086+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":11,"timestamp":"2021-03-08T17:12:34.3323457+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":12,"timestamp":"2021-03-08T17:12:35.8519203+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":13,"timestamp":"2021-03-08T17:12:36.3661397+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"a31cb221-c5e7-4826-9d55-17438f922c6e","aggregateVersion":14,"timestamp":"2021-03-08T17:12:37.8965092+03:00"}

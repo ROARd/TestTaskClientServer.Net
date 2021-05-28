@@ -1,0 +1,13 @@
+{"$type":"Server.Domain.Battle.BattleCreated, Server","aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":1,"timestamp":"2021-03-08T17:10:55.748475+03:00"}
+{"$type":"Server.Domain.Battle.ClientConnectedEvent, Server","peerId":0,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":2,"timestamp":"2021-03-08T17:10:55.7522631+03:00"}
+{"$type":"Server.Domain.Battle.BattleStartedEvent, Server","aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":3,"timestamp":"2021-03-08T17:10:55.7536806+03:00"}
+{"$type":"Server.Domain.Battle.ClientConnectedEvent, Server","peerId":1,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":3,"timestamp":"2021-03-08T17:10:55.7524404+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":4,"timestamp":"2021-03-08T17:10:55.754511+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":5,"timestamp":"2021-03-08T17:10:56.7585638+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":6,"timestamp":"2021-03-08T17:10:57.7748557+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":7,"timestamp":"2021-03-08T17:10:58.7899982+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":8,"timestamp":"2021-03-08T17:10:59.8088884+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":9,"timestamp":"2021-03-08T17:11:00.8340557+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":10,"timestamp":"2021-03-08T17:11:01.8426008+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":1,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":11,"timestamp":"2021-03-08T17:11:02.8641554+03:00"}
+{"$type":"Server.Domain.Battle.ClientShotEvent, Server","peerId":0,"aggregateId":"62b013f9-9f52-44db-a7e8-d528bf286993","aggregateVersion":12,"timestamp":"2021-03-08T17:11:03.8820519+03:00"}
